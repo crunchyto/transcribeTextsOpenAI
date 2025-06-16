@@ -37,6 +37,10 @@ ENV/
 *.swp
 *.swo
 
+
+#USER
+audioFiles
+
 # OS
 .DS_Store
 Thumbs.db
