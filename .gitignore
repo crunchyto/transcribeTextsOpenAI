@@ -39,7 +39,7 @@ ENV/
 
 
 #USER
-audioFiles
+audioFiles/
 
 # OS
 .DS_Store
