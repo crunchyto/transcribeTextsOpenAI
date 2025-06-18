@@ -59,5 +59,7 @@ def main():
         print(f"Error during transcription: {str(e)}")
         sys.exit(1)
 
+
+
 if __name__ == "__main__":
     main()
